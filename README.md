@@ -28,9 +28,9 @@ Practising as a QA, Automation Engineer and Incident support.
   * Detail guide
   
       * [Getting Started](Detail%20Guide/Getting%20Started)
-      * [Introduction]((Detail%20Guide/Introduction)
-      * [Installation]((Detail%20Guide/Installation)
-      * [Automation]((Detail%20Guide/Automation) 
+      * [Introduction](Detail%20Guide/Introduction)
+      * [Installation](Detail%20Guide/Installation)
+      * [Automation](Detail%20Guide/Automation) 
   
   </details>
   
