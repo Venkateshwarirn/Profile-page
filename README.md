@@ -14,8 +14,7 @@ Practising as a QA, Automation Engineer and Incident support.
   * [Getting Started](Robot/Getting%20Started)
   * [Introduction](Robot/Introduction)
   * [Installation](Robot/Installation)
-  * [Dashboard](Robot/Dashboard)
-  * [Automation](Robot/Automation)
+  * [Automation](Robot/Automation)  
 * Frequently Asked Questions
   * [General](FAQs/General)
   * [Automation](FAQs/Account)
