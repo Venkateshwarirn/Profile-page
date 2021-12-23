@@ -36,7 +36,7 @@ Practising as a QA, Automation Engineer and Incident support.
   
   <details>
   
-  <summary>Click Frequently Asked Questions</summary>
+  <summary>Frequently Asked Questions</summary>
   
   * FAQs
       * [General](faqs/General)
