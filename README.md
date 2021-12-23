@@ -14,7 +14,6 @@ Practising as a QA, Automation Engineer and Incident support.
   <summary>Quick start</summary>
   
   * Overview
-  
       * [Introduction](Robot/Introduction)
       * [Tools](Robot/Tools)
  
@@ -24,7 +23,6 @@ Practising as a QA, Automation Engineer and Incident support.
   <summary>Installation instructions</summary>
   
   * Detail guide
-  
       * [Getting Started](Robot/Getting%20Started)
       * [Introduction](Robot/Introduction)
       * [Installation](Robot/Installation)
@@ -35,7 +33,6 @@ Practising as a QA, Automation Engineer and Incident support.
   <summary>Click Frequently Asked Questions</summary>
   
    * FAQs
-  
       * [General](FAQs/General)
       * [Automation](FAQs/Account)
    </details>
@@ -43,8 +40,7 @@ Practising as a QA, Automation Engineer and Incident support.
 
  <details>
  <summary>Thank you</summary>
-  
-   <img src= "https://github.com/Venkateshwarirn/Profile-page/blob/main/assets/Thankyou.gif" width="300px">
+   <img src= "/assets/Thankyou.gif" width="300px">
 </details>  
 
 
