@@ -11,20 +11,30 @@ Practising as a QA, Automation Engineer and Incident support.
 
 # Docs section
 <details>
-  <summary>Click docs to glance!</summary>
+  <summary>Click Robot!</summary>
   
-  ## Robot
-  1. OG
-  2. UG
+      * [Getting Started](Robot/Getting%20Started)
+      * [Introduction](Robot/Introduction)
+  </details> 
+  
+ <details>
+  <summary>Click Installation instructions!</summary>
+  
       * [Getting Started](Robot/Getting%20Started)
       * [Introduction](Robot/Introduction)
       * [Installation](Robot/Installation)
       * [Automation](Robot/Automation) 
-  ## Frequently Asked Questions
-  * [General](FAQs/General)
-  * [Automation](FAQs/Account)
+  </details>
+  
+  <details>
+  <summary>Click Frequently Asked Questions</summary>
+  
+      * [General](FAQs/General)
+      * [Automation](FAQs/Account)
+  
+   </details>
  
-</details> 
+
 
   
 
