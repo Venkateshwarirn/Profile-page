@@ -11,17 +11,20 @@ Practising as a QA, Automation Engineer and Incident support.
 
 # Docs section
 <details>
-  <summary>Click Robot</summary>
+  <summary>Quick start</summary>
   
-   ## Robot
-      * [Getting Started](Robot/Getting%20Started)
+  * Overview
+  
       * [Introduction](Robot/Introduction)
-  </details> 
+      * [Tools](Robot/Tools)
+ 
+ </details>
   
  <details>
-  <summary>Click Installation instructions</summary>
+  <summary>Installation instructions</summary>
   
-  ## Installation instructions
+  * Detail guide
+  
       * [Getting Started](Robot/Getting%20Started)
       * [Introduction](Robot/Introduction)
       * [Installation](Robot/Installation)
@@ -31,7 +34,8 @@ Practising as a QA, Automation Engineer and Incident support.
   <details>
   <summary>Click Frequently Asked Questions</summary>
   
-  ## FAQs
+   * FAQs
+  
       * [General](FAQs/General)
       * [Automation](FAQs/Account)
    </details>
@@ -40,7 +44,7 @@ Practising as a QA, Automation Engineer and Incident support.
  <details>
  <summary>Thank you</summary>
   
-    ![Image is not available](/assets/Thankyou.gif)
+   <img src= "https://github.com/Venkateshwarirn/Profile-page/blob/main/assets/Thankyou.gif" width="300px">
 </details>  
 
 
