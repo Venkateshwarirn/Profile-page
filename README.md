@@ -14,11 +14,11 @@ Practising as a QA, Automation Engineer and Incident support.
   
   <summary>Quick start</summary>
   
-  * Overview
-  
+ * Overview
+ 
       * [Introduction](Robot/Introduction)
       * [Tools](Robot/Tools)
- 
+  </p>
  </details>
   
  <details>
@@ -38,18 +38,17 @@ Practising as a QA, Automation Engineer and Incident support.
   
   <summary>Click Frequently Asked Questions</summary>
   
-   * FAQs
+  * FAQs
       * [General](FAQs/General)
       * [Automation](FAQs/Account)
   
    </details>
    
-
  <details>
   
  <summary>Thank you</summary>
   
-   <img src= "/assets/Thankyou.gif" width="300px">
+   ![thankyou](https://user-images.githubusercontent.com/96560469/147209858-77f63db2-2405-4f91-b1db-6224ecb6830d.gif)
   
 </details>  
 
