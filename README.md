@@ -13,21 +13,30 @@ Practising as a QA, Automation Engineer and Incident support.
 <details>
   <summary>Click Robot!</summary>
   
+   ## Robot
+  
       * [Getting Started](Robot/Getting%20Started)
       * [Introduction](Robot/Introduction)
+  
   </details> 
   
  <details>
   <summary>Click Installation instructions!</summary>
   
+  ## Installation instructions
+  
       * [Getting Started](Robot/Getting%20Started)
       * [Introduction](Robot/Introduction)
       * [Installation](Robot/Installation)
       * [Automation](Robot/Automation) 
+  
   </details>
   
   <details>
+  
   <summary>Click Frequently Asked Questions</summary>
+  
+  ## FAQs
   
       * [General](FAQs/General)
       * [Automation](FAQs/Account)
