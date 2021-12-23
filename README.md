@@ -48,7 +48,7 @@ Practising as a QA, Automation Engineer and Incident support.
   
  <summary>Thank you</summary>
   
-   <img src= "/assets/thankyou.gif" alt= "Thank you" width="300px">
+   <img src= "/assets/thankyou.gif" width="300px">
   
   
 </details>  
