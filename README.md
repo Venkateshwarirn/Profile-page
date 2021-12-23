@@ -16,8 +16,8 @@ Practising as a QA, Automation Engineer and Incident support.
   
  * Overview
  
-      * [Introduction](Robot/Introduction)
-      * [Tools](Robot/Tools)
+      * [Introduction](Overview/Introduction)
+      * [Tools](Overview/Tools)
   </p>
  </details>
   
@@ -27,10 +27,10 @@ Practising as a QA, Automation Engineer and Incident support.
   
   * Detail guide
   
-      * [Getting Started](Robot/Getting%20Started)
-      * [Introduction](Robot/Introduction)
-      * [Installation](Robot/Installation)
-      * [Automation](Robot/Automation) 
+      * [Getting Started](Detail%20Guide/Getting%20Started)
+      * [Introduction]((Detail%20Guide/Introduction)
+      * [Installation]((Detail%20Guide/Installation)
+      * [Automation]((Detail%20Guide/Automation) 
   
   </details>
   
@@ -39,8 +39,8 @@ Practising as a QA, Automation Engineer and Incident support.
   <summary>Click Frequently Asked Questions</summary>
   
   * FAQs
-      * [General](FAQs/General)
-      * [Automation](FAQs/Account)
+      * [General](faqs/General)
+      * [Automation](faqs/Account)
   
    </details>
    
@@ -48,7 +48,8 @@ Practising as a QA, Automation Engineer and Incident support.
   
  <summary>Thank you</summary>
   
-   ![thankyou](https://user-images.githubusercontent.com/96560469/147209858-77f63db2-2405-4f91-b1db-6224ecb6830d.gif)
+   <img src= "/assets/thankyou.gif" alt= "Thank you" width="300px">
+  
   
 </details>  
 
