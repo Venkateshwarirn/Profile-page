@@ -11,7 +11,8 @@ Practising as a QA, Automation Engineer and Incident support.
 
 # Docs section
 <details>
-  <summary>Click Robot!</summary>
+  
+  <summary>Click Robot</summary>
   
    ## Robot
   
@@ -21,7 +22,8 @@ Practising as a QA, Automation Engineer and Incident support.
   </details> 
   
  <details>
-  <summary>Click Installation instructions!</summary>
+  
+  <summary>Click Installation instructions</summary>
   
   ## Installation instructions
   
@@ -42,6 +44,17 @@ Practising as a QA, Automation Engineer and Incident support.
       * [Automation](FAQs/Account)
   
    </details>
+   
+
+ <details>
+  
+ <summary>:heart: Thank you</summary>
+  
+![Image is not available](/assets/Thankyou.gif)
+  
+</details>  
+
+
  
 
 
