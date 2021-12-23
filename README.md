@@ -9,16 +9,23 @@ Practising as a QA, Automation Engineer and Incident support.
 
 <img src= "assets/Fig1.png" alt= "apple logo" width="50" height="50"> <img src= "assets/Fig2.png" alt= "apple logo" width="50" height="50"> <img src= "assets/Fig3.png" alt= "apple logo" width="50" height="50"> <img src= "assets/Fig4.png" alt= "apple logo" width="50" height="50"> <img src= "assets/Fig5.png" alt= "apple logo" width="50" height="50">
 
-
-
-* Robot
-  * [Getting Started](Robot/Getting%20Started)
-  * [Introduction](Robot/Introduction)
-  * [Installation](Robot/Installation)
-  * [Automation](Robot/Automation)  
-* Frequently Asked Questions
+# Docs section
+<details>
+  <summary>Click docs to glance!</summary>
+  
+  ## Robot
+  1. OG
+  2. UG
+      * [Getting Started](Robot/Getting%20Started)
+      * [Introduction](Robot/Introduction)
+      * [Installation](Robot/Installation)
+      * [Automation](Robot/Automation) 
+  ## Frequently Asked Questions
   * [General](FAQs/General)
   * [Automation](FAQs/Account)
+ 
+</details> 
+
   
 
 
